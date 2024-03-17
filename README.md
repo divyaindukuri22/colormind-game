@@ -18,4 +18,4 @@ To play the game, follow these steps:
 4. Run the game using `java ColorMind`
 
 # Output
-![ColorMind game Screenshot](https://github.com/divyaindukuri22/ColorMind/blob/main/screenshot.png)
+![ColorMind game Screenshot](color mind game using java awt.png)
